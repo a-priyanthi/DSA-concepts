@@ -469,6 +469,8 @@ The repository is being expanded progressively.
 * [x] Red-Black Tree
 * [x] Top-Down Tree
 * [x] Bottom-Up Tree
+* [x] Hashing
+* [x] Recursion
 
 ### Planned
 
@@ -479,8 +481,6 @@ The repository is being expanded progressively.
 * [ ] DFS
 * [ ] Shortest Path Algorithms
 * [ ] Minimum Spanning Tree
-* [ ] Hashing
-* [ ] Recursion
 * [ ] Dynamic Programming
 * [ ] Greedy Algorithms
 * [ ] Divide and Conquer
