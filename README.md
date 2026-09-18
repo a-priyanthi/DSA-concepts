@@ -3,7 +3,6 @@
 A structured collection of **Data Structures and Algorithms implemented in C**, designed as a practical reference for understanding core DSA concepts through clean, modular, and executable programs.
 
 The repository covers fundamental and advanced data structures, including arrays, linked lists, stacks, queues, heaps, and multiple types of trees. Each implementation focuses on the underlying logic, operations, and algorithmic techniques commonly used in academic coursework, coding interviews, competitive programming, and software development.
-
 ---
 
 ## Overview
