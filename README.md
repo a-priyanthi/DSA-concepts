@@ -51,7 +51,6 @@ DSA-in-C/
 │
 └── README.md
 ```
-
 ---
 
 # Data Structures Covered
