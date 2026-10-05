@@ -51,19 +51,16 @@ int main() {
             case 5:
                 binarySearch(arr, n);
                 break;
-
             case 6:
                 bubbleSort(arr, n);
                 printf("Array sorted using Bubble Sort.\n");
                 display(arr, n);
                 break;
-
             case 7:
                 selectionSort(arr, n);
                 printf("Array sorted using Selection Sort.\n");
                 display(arr, n);
                 break;
-
             case 8:
                 insertionSort(arr, n);
                 printf("Array sorted using Insertion Sort.\n");
