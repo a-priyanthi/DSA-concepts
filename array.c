@@ -11,13 +11,10 @@ void insertionSort(int arr[], int n);
 void reverse(int arr[], int n);
 void findMaxMin(int arr[], int n);
 void findSumAverage(int arr[], int n);
-
 int main() {
     int arr[MAX], n, choice;
-
     printf("Enter number of elements: ");
     scanf("%d", &n);
-
     printf("Enter %d elements:\n", n);
     for (int i = 0; i < n; i++)
         scanf("%d", &arr[i]);
