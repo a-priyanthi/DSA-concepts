@@ -36,11 +36,9 @@ int main() {
         printf("Enter your choice: ");
         scanf("%d", &choice);
         switch (choice) {
-
             case 1:
                 display(arr, n);
                 break;
-
             case 2:
                 insert(arr, &n);
                 break;
