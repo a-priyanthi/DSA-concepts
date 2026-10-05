@@ -66,31 +66,24 @@ int main() {
                 printf("Array sorted using Insertion Sort.\n");
                 display(arr, n);
                 break;
-
             case 9:
                 reverse(arr, n);
                 printf("Array reversed successfully.\n");
                 display(arr, n);
                 break;
-
             case 10:
                 findMaxMin(arr, n);
                 break;
-
             case 11:
                 findSumAverage(arr, n);
                 break;
-
             case 0:
                 printf("Program ended.\n");
                 break;
-
             default:
                 printf("Invalid choice!\n");
         }
-
     } while (choice != 0);
-
     return 0;
 }
 
