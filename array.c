@@ -1,7 +1,5 @@
 #include <stdio.h>
-
 #define MAX 100
-
 void display(int arr[], int n);
 void insert(int arr[], int *n);
 void deleteElement(int arr[], int *n);
