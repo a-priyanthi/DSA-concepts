@@ -18,7 +18,6 @@ int main() {
     printf("Enter %d elements:\n", n);
     for (int i = 0; i < n; i++)
         scanf("%d", &arr[i]);
-
     do {
         printf("\n========== ARRAY OPERATIONS ==========\n");
         printf("1. Display\n");
@@ -34,7 +33,6 @@ int main() {
         printf("11. Find Sum and Average\n");
         printf("0. Exit\n");
         printf("======================================\n");
-
         printf("Enter your choice: ");
         scanf("%d", &choice);
 
