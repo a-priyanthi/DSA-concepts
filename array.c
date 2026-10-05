@@ -42,15 +42,12 @@ int main() {
             case 2:
                 insert(arr, &n);
                 break;
-
             case 3:
                 deleteElement(arr, &n);
                 break;
-
             case 4:
                 linearSearch(arr, n);
                 break;
-
             case 5:
                 binarySearch(arr, n);
                 break;
